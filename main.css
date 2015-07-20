@@ -1,0 +1,30 @@
+.article {
+	padding: 2.5%;
+	font-size: 1em;
+	background: lightblue;
+	background-image: url("donate blood fotolia_80578853.jpg");
+	background-repeat: no-repeat;
+}
+
+.article-title {
+	font-size: 3em;
+}
+
+.btn-primary .fa {
+	font-size: .5em;
+	vertical-align: middle;
+}
+
+.btn-default .fa {
+	font-size: .5em;
+	vertical-align: middle;
+}
+
+.body {
+	padding: 5%;
+	border-bottom: 1px solid #EEE;
+}
+
+.footer {
+	padding: 2.5% 7.5%;
+}
